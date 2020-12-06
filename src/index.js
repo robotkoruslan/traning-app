@@ -1,18 +1,22 @@
 // import React, { Component } from "react";
 import React from "react";
 import ReactDOM from "react-dom";
+import "bootstrap/dist/css/bootstrap.css";
 import "./index.css";
 import App from "./components/app/";
+
+
+
 // class WhoAmI extends Component {
 // state = {
 //       years: 25,
 //       nationality: "Ukraine",
 //     };
 
-  // nextYear = () => {
-  //   this.setState(state => ({
-  //     years: ++state.years,
-  //    }));
+// nextYear = () => {
+//   this.setState(state => ({
+//     years: ++state.years,
+//    }));
 //   }
 //   render() {
 //     const { name, surname, link } = this.props;
